@@ -11,8 +11,10 @@ This is my first homework submission for the University of Denver Coding Bootcam
 ## Deployment
 
 The code (and associated assets) are hosted right here in this GitHub repository, and it's all live on the web thanks to GitHub pages. If you would like to check it out, you can view the site at the link below: <br><br>
-[**marketingCompanyRefactor Live Website**](https://lukeoxner.github.io/marketingcompanyrefactor)
-<br> 
+
+<a href="https://lukeoxner.github.io/marketingcompanyrefactor" target="blank"><b>marketingCompanyRefactor Live Website</b></a>
+<br>
+
  ## Credits
  
  This project was made largely using "starter code" provided by the bootcamp. I took that started code and refactored it as discussed in more detail in the **Description** section above.
