@@ -1,6 +1,6 @@
 # marketingCompanyRefactor
 
-
+![screenshot of website](screenshot.png)
 
 
 
